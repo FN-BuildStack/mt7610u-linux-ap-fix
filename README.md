@@ -22,10 +22,12 @@ Ensure you have the following packages installed on your Linux distribution:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/FN-BuildStack/mt7610u-linux-ap-fix.git]([https://github.com/YOUR_USERNAME/mt7610u-linux-ap-fix.git](https://github.com/FN-BuildStack/mt7610u-linux-ap-fix.git))
+   git clone [https://github.com/FN-BuildStack/mt7610u-linux-ap-fix.git]([https://github.com/YOUR_USERNAME/mt7610u-linux-ap-fix.git](https://github.com/FN-BuildStack/mt7610u-linux-ap-fix.git)
    cd mt7610u-linux-ap-fix
 
 2. Grant execution permissions to the main script:
+   ```bash
    chmod +x start.sh
 4. Execute the script as root:
+   ```bash
    sudo ./start.sh
