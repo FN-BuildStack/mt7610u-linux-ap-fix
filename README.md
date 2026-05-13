@@ -1,0 +1,1 @@
+# mt7610u-linux-ap-fix
